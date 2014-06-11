@@ -1,0 +1,4 @@
+wiki:
+    resource: "@wikiBundle/Resources/config/routing.yml"
+    prefix:   /
+
