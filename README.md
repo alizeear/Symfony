@@ -2,7 +2,7 @@ Started with Symfony !
 =======
 I build this tutorial along with my Symfony learning.<br />
 I aim to develop a platform with Symfony for share our toolkits and tips between web developers and create a better web!<br />
-Your advice are welcome !
+Your advice are welcome ! arn.alizee [ at ] gmail.com
 
 ## Installation on Windows ##
 
