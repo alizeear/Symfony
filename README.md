@@ -28,7 +28,7 @@ In the command prompt in your project repository execute :<br />
 ### Check config ###
 Go to <http://localhost/your-project-name/dev-master/web/config.php> and if your are recommandations, **follow them**.<br />
 
-**Next => Create your first Bundle ! <https://github.com/alizeear/Symfony/blob/master/Your%20first%20Bundle.md>**
+**Next => Create your first Bundle ! <https://github.com/alizeear/Symfony/blob/master/FirstBundle.md>**
 
 ## Installation on Linux ##
 Soon...
