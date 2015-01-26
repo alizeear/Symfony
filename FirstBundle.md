@@ -13,7 +13,7 @@ follow instructions<br />
 
 Now, your first bundle is generated, you can use and custom it. To test, go to <http://localhost/.../dev-master/web/app_dev.php/hello/alizee><br />
 
-**Prev => Create your first Bundle ! <https://github.com/alizeear/Symfony/blob/master/README.md>**
+**Prev => Started with Symfony ! <https://github.com/alizeear/Symfony/blob/master/README.md>**
 
 ## Create Bundle (Linux) ##
 Soon...
